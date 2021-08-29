@@ -11,4 +11,8 @@
        android:layout_height="200dp"
        android:layout_centerInParent="true" />
 
+   <com.app.support.view.AnimView
+       android:layout_width="100dp"
+       android:layout_height="100dp"/>
+
 </LinearLayout>
